@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-oysak8.wsafe.vip/sitemap.xml
